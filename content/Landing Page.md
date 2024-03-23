@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: Page
 description: Landing page test description.
 draft: false
 tags:
